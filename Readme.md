@@ -73,7 +73,7 @@ This project showcases a comprehensive order management system on Ethereum, leve
 
 1. **Clone the Repository**:
    ```bash
-   cd final-project
+   cd ethereumOrderBook
    ```
 
 2. **Install Dependencies**:
